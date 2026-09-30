@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaasu-007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vaasu-007/LeetCode/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaasu-007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaasu-007/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaasu-007/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
